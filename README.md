@@ -56,7 +56,7 @@ It serves as a **complete retail analysis toolkit** with both **metrics and stor
 # ✅ Dashboard  
 
 
- ![Image](https://github.com/user-attachments/assets/0b34859b-3e69-412e-8343-da5bb6e21a68
+![Image](https://github.com/user-attachments/assets/90ed91fc-6513-4b8d-8ca1-dbf2a4825b56)
 
  
 ---
