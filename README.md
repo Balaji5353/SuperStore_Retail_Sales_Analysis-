@@ -7,6 +7,11 @@ The dashboard provides actionable insights into **Year-to-Date (YTD) Sales, Prof
 
 ---
 
+# 💡 Project Logo
+
+
+---
+
 ## 🔍 Insights & Storytelling  
 
 ### 1️⃣ Regional Performance  
