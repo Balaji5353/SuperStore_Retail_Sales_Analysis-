@@ -8,7 +8,7 @@ The dashboard provides actionable insights into **Year-to-Date (YTD) Sales, Prof
 ---
 
 # 💡 Project Logo
-<img width="300" height="94" alt="Image" src="https://github.com/user-attachments/assets/1b542709-f913-4750-a225-58e3810885e2" />
+<img width="800" height="310" alt="Image" src="https://github.com/user-attachments/assets/5c2ecc8d-5c22-4351-a099-3eba585a0556" />
 
 ---
 ## 🔍 Insights & Storytelling  
