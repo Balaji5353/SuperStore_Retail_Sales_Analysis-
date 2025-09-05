@@ -40,15 +40,16 @@ https://public.tableau.com/shared/J83CHJGBH?:display_count=n&:origin=viz_share_l
 ---
 # 📷 Visualizations
 # ✅ Dashboard View
-
 ![Image](https://github.com/user-attachments/assets/90ed91fc-6513-4b8d-8ca1-dbf2a4825b56)
 
-- Data Story 1 – Central Region
+# - Data Story 1 – Central Region
 ![Image](https://github.com/user-attachments/assets/ff919882-6ffd-45a2-a791-2c5f65174245)
  
-- Data Story 2 – NYC Best Performer
-- Data Story 3 – November Peak Sales
+# - Data Story 2 – NYC Best Performer
+![Image](https://github.com/user-attachments/assets/ff9698fe-4770-49f0-b93b-526e6461f4b7)
 
+# - Data Story 3 – November Peak Sales
+![Image](https://github.com/user-attachments/assets/e1b581d9-2407-409a-b28f-2c7f144830a0)
 
 ## 🛠 Tools & Technologies  
 - **Tableau** → Dashboard creation, visual storytelling.  
