@@ -44,7 +44,7 @@ https://public.tableau.com/shared/J83CHJGBH?:display_count=n&:origin=viz_share_l
 ![Image](https://github.com/user-attachments/assets/90ed91fc-6513-4b8d-8ca1-dbf2a4825b56)
 
 - Data Story 1 – Central Region
-
+![Image](https://github.com/user-attachments/assets/ff919882-6ffd-45a2-a791-2c5f65174245)
  
 - Data Story 2 – NYC Best Performer
 - Data Story 3 – November Peak Sales
