@@ -11,7 +11,7 @@ The dashboard provides actionable insights into **Year-to-Date (YTD) Sales, Prof
 <img width="300" height="94" alt="Image" src="https://github.com/user-attachments/assets/26a73142-6538-4ca2-a360-8f0f031b45b0" />
 
 # 📂 Project Link
- Retail_Sales_Analysis.twbx
+https://public.tableau.com/shared/J83CHJGBH?:display_count=n&:origin=viz_share_link
 
 ---
 ## 🔍 Insights & Storytelling  
