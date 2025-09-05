@@ -38,6 +38,17 @@ https://public.tableau.com/shared/J83CHJGBH?:display_count=n&:origin=viz_share_l
 - 🔚 *Ending Discussions → Business Action Points*  
 
 ---
+# 📷 Visualizations
+# ✅ Dashboard View
+
+![Image](https://github.com/user-attachments/assets/90ed91fc-6513-4b8d-8ca1-dbf2a4825b56)
+
+- Data Story 1 – Central Region
+
+ 
+- Data Story 2 – NYC Best Performer
+- Data Story 3 – November Peak Sales
+
 
 ## 🛠 Tools & Technologies  
 - **Tableau** → Dashboard creation, visual storytelling.  
@@ -60,11 +71,4 @@ It serves as a **complete retail analysis toolkit** with both **metrics and stor
 
 ---
 
-# ✅ Dashboard  
-
-
-![Image](https://github.com/user-attachments/assets/90ed91fc-6513-4b8d-8ca1-dbf2a4825b56)
-
- 
----
 
