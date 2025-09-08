@@ -1,5 +1,6 @@
 
 # 📊 Executive Retail Sales Analysis  
+# Tableau Project By Balaji
 
 ## 🚀 Project Overview  
 This project showcases a **Retail Sales Dashboard** designed to monitor and analyze sales performance across regions, categories, and time periods.  
